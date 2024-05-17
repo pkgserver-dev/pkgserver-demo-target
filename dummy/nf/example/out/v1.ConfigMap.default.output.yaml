@@ -5,5 +5,5 @@ metadata:
   name: output
   namespace: default
 data:
-  prefix: 10.0.0.254/24
+  prefix: 10.0.0.2/24
   defaultGateway: 10.0.0.1
