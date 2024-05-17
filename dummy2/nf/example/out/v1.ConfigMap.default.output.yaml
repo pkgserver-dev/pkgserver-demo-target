@@ -1,0 +1,9 @@
+# blockType: output
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: output
+  namespace: default
+data:
+  prefix: 192.0.0.254/24
+  defaultGateway: 192.0.0.1
